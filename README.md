@@ -1,6 +1,8 @@
 # SaudiReady View
 
-![SaudiReady View illustrative cover](assets/cover.png)
+<p align="center">
+  <img src="assets/cover.png" alt="SaudiReady View illustrative cover" width="640">
+</p>
 
 *Illustrative cover; the sample below is actual synthetic report output.*
 
