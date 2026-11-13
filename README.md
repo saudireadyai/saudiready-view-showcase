@@ -1,8 +1,8 @@
 # SaudiReady View
 
-![SaudiReady View — illustrative product preview](https://pe56d.s3.amazonaws.com/o_1k7bjcl8s3i49mnmtp1t55jd11a.png)
+![SaudiReady View illustrative cover](assets/cover.png)
 
-*Illustrative cover, not a runtime screenshot. The downloadable sample below is actual synthetic report output.*
+*Illustrative cover; the sample below is actual synthetic report output.*
 
 **Python reporting source + 18 n8n workflow templates. Synthetic demos; integration required.**
 
