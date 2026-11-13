@@ -1,0 +1,99 @@
+{
+  "version": "view-report-candidate-0.1",
+  "report_id": "SRV-CAND-d618f64a2dcbf342",
+  "input_sha256": "d618f64a2dcbf342843944773d48ced431870a52b220bf561b673c96f84b4a24",
+  "request_id": "SYN-REQUEST-VIEW-002",
+  "lead_id": "SYN-LEAD-VIEW-002",
+  "branch_id": "SYN-BRANCH-002",
+  "clinic_label": "Demo clinic — not a real business",
+  "as_of": "2026-10-02T01:30:00+03:00",
+  "source_ref": "SYNTHETIC-FIXTURE-V2",
+  "profile": {
+    "name": {
+      "state": "PRESENT",
+      "source_ref": "SYN-P1"
+    },
+    "category": {
+      "state": "PRESENT",
+      "source_ref": "SYN-P2"
+    },
+    "address": {
+      "state": "PRESENT",
+      "source_ref": "SYN-P3"
+    },
+    "phone": {
+      "state": "PRESENT",
+      "source_ref": "SYN-P4"
+    },
+    "hours": {
+      "state": "PRESENT",
+      "source_ref": "SYN-P5"
+    },
+    "website": {
+      "state": "PRESENT",
+      "source_ref": "SYN-P6"
+    }
+  },
+  "state": "SYNTHETIC_DRAFT_NOT_SENT",
+  "external_sending_allowed": false,
+  "publishing_allowed": false,
+  "production_ready": false,
+  "independent_qa": "PENDING",
+  "metrics": {
+    "profile_observation_coverage_percent": 100.0,
+    "profile_presence_percent": 100.0,
+    "reviews_in_dataset": 4,
+    "reviews_total_reported": 40,
+    "review_coverage": "SAMPLE",
+    "dataset_average_stars": 3.25,
+    "dataset_response_percent": 50.0,
+    "all_reviews_response_percent": null,
+    "unanswered_low_rated_in_dataset": 1,
+    "unknown_reply_states": 0,
+    "median_first_reply_hours_observed_subset": 9.0,
+    "first_reply_time_sample_count": 2,
+    "review_quality_percent": null,
+    "visual_quality_percent": null,
+    "overall_score_percent": null
+  },
+  "theme_counts_in_dataset": {
+    "waiting": 1,
+    "service": 1,
+    "communication": 1,
+    "other": 1
+  },
+  "actions": [
+    {
+      "priority": 1,
+      "action": "Review 1 unanswered low-rated reviews in the examined data and prepare a professional response for approval.",
+      "basis": "stars<=2 AND reply_present=false; no inference about medical care."
+    },
+    {
+      "priority": 3,
+      "action": "Complete the review source and reply statuses before reporting an overall rate.",
+      "basis": "A sample or unknown state does not establish full coverage."
+    }
+  ],
+  "reply_drafts": [
+    {
+      "review_id": "SYN2-R1",
+      "text": "Thank you for your feedback. We are sorry you were dissatisfied. Please contact management through its official channels so the concern can be reviewed while protecting privacy.",
+      "state": "DRAFT_REQUIRES_REVIEW",
+      "published": false
+    },
+    {
+      "review_id": "SYN2-R3",
+      "text": "Thank you for your review. We appreciate your feedback and interest.",
+      "state": "DRAFT_REQUIRES_REVIEW",
+      "published": false
+    }
+  ],
+  "limits": [
+    "Synthetic demonstration data only; not a real business.",
+    "Calculations describe examined data; do not generalize a sample to all reviews.",
+    "Field presence does not prove correctness; presence percentage is an internal six-field definition, not a score from Google.",
+    "Feedback themes are predefined inputs, not verified AI analysis.",
+    "Overall score, review quality and visual presence are not calculated because no accepted standard exists.",
+    "No sending, publishing or access to Google or n8n; a data adapter and independent approval are required before integration."
+  ]
+}
