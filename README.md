@@ -12,6 +12,8 @@
 
 This public repository contains evaluation materials only. The paid engine and workflow source are not included.
 
+**Also in this showcase:** [Venture Ops Finance Toolkit](#venture-ops-finance-toolkit).
+
 ## Commercial package
 
 - Editable Python reporting engine.
@@ -42,3 +44,11 @@ The commercial download is non-exclusively licensed to one purchaser or organiza
 Includes one handover session of up to 60 minutes within 30 days and clarification of sample setup. New features, live integrations, deployment and ongoing maintenance are excluded. No ranking or revenue guarantee.
 
 Public materials are for evaluation; no open-source license to the commercial package is granted. Do not put credentials or customer data in public issues.
+
+## Venture Ops Finance Toolkit
+
+Four browser-based CSV tools for accounts payable teams. Explore supplier statement reconciliation, potential duplicate invoices, AP exceptions, and CSV cleanup through worked examples using synthetic data.
+
+[Explore the public demo](https://venture-ops-finance-toolkit-qz7otz.v2.appdeploy.ai/) · [Watch the 40-second walkthrough](https://youtu.be/A6QtMoRlpBE)
+
+**Purchase link:** Pending. [Sales inquiries](mailto:saudiready.ai@gmail.com).
