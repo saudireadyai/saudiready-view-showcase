@@ -39,8 +39,22 @@ This is a developer source package, not a turnkey SaaS or a live advertising-dat
 
 ## License and handover
 
-The commercial download is non-exclusively licensed to one purchaser or organization for internal use and client services. No package resale, source redistribution, sublicensing or transfer of ownership/trademarks. Full terms accompany the purchase; see checkout for current pricing.
+The commercial download is non-exclusively licensed to one purchaser or organization for internal use and client services. No package resale, source redistribution, sublicensing or transfer of ownership/trademarks. The existing package terms are reproduced below for review before purchase; see checkout for current pricing.
 
 Includes one handover session of up to 60 minutes within 30 days and clarification of sample setup. New features, live integrations, deployment and ongoing maintenance are excluded. No ranking or revenue guarantee.
 
 Public materials are for evaluation; no open-source license to the commercial package is granted. Do not put credentials or customer data in public issues.
+
+## Existing source-license terms — review before purchase
+
+One purchaser or organization receives a non-exclusive license to modify the supplied source code and use it internally and in services delivered to its clients. No resale of this package, source redistribution or publication as a standalone template is permitted. Project ownership and trademarks are not transferred. Third-party licenses remain applicable.
+
+Included: the source files, configurable workflow templates, synthetic examples and documentation; one remote handover session of up to 60 minutes arranged within 30 days of purchase; clarification of synthetic-sample installation questions during that period.
+
+Excluded: new features, account integration, production deployment, ongoing maintenance and service subscriptions. The buyer configures accounts, permissions, credentials, spreadsheet schemas and authorized data access. There is no revenue, search-ranking or production-readiness guarantee. Additional commitments require a separate written agreement. These published details do not remove mandatory consumer rights or change an existing purchaser's agreed rights.
+
+## Compatibility and help
+
+The source archive was rechecked with Python 3.12.14 and Node.js 24.22.1. A specific n8n import/runtime version has not been verified; static workflow checks and mocked scenarios do not prove live compatibility. No n8n or third-party service subscription is supplied.
+
+Questions or delivery problems: [saudiready.ai@gmail.com](mailto:saudiready.ai@gmail.com). Include the product name, order reference and a redacted description. Do not send passwords, API keys, patient records or payment-card details. Confirm the checkout's current delivery and refund terms before paying.
