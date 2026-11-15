@@ -8,9 +8,9 @@
 
 **Python reporting source + 18 n8n workflow templates. Synthetic demos; integration required.**
 
-**Updated release price: USD $399, one-time.** The Payhip listing is temporarily hidden while its download update is finalized. Ordering is not yet reopened. Any applicable taxes are shown at checkout.
+**Updated release price: USD $399, one-time.** The Payhip and Gumroad listings are temporarily paused while their delivery updates are finalized. Ordering is not yet reopened. Any applicable taxes are shown at checkout.
 
-The Gumroad listing has not yet been synchronized with this updated release. Existing purchasers retain their previously agreed license and support rights.
+The corrected archive has been uploaded to both marketplaces and its seller-download SHA-256 verified. Obsolete attachment removal remains pending. Existing purchasers retain their previously agreed license and support rights.
 
 This public repository contains evaluation materials only. The paid engine and workflow source are not included.
 
