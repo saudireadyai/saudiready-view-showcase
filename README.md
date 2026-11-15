@@ -8,11 +8,9 @@
 
 **Python reporting source + 18 n8n workflow templates. Synthetic demos; integration required.**
 
-**Current price: SAR 690, one-time.** Includes the existing source license and one handover session of up to 60 minutes. Any applicable taxes are shown at checkout.
+**Updated release price: USD $399, one-time.** The Payhip listing is temporarily hidden while its download update is finalized. Ordering is not yet reopened. Any applicable taxes are shown at checkout.
 
-[Buy on Payhip](https://payhip.com/b/RxM6z) · [Buy on Gumroad](https://saudiready.gumroad.com/l/view-source)
-
-Older included documents may reference SAR 4,900; that price is superseded for new purchases. The price shown at checkout governs your purchase. Existing purchasers' agreed license and support rights remain unchanged.
+The Gumroad listing has not yet been synchronized with this updated release. Existing purchasers retain their previously agreed license and support rights.
 
 This public repository contains evaluation materials only. The paid engine and workflow source are not included.
 
@@ -43,19 +41,13 @@ This is a developer source package, not a turnkey SaaS or a live advertising-dat
 
 ## License and handover
 
-The commercial download is non-exclusively licensed to one purchaser or organization for internal use and client services. No package resale, source redistribution, sublicensing or transfer of ownership/trademarks. The existing package terms are reproduced below for review before purchase; see checkout for current pricing.
+The commercial download is non-exclusively licensed to one purchaser or organization for internal use and services delivered to its clients. No package resale, source redistribution, sublicensing or standalone-template resale. Ownership and trademarks are not transferred. Third-party terms remain applicable; no n8n platform license is supplied.
 
-Includes one handover session of up to 60 minutes within 30 days and clarification of sample setup. New features, live integrations, deployment and ongoing maintenance are excluded. No ranking or revenue guarantee.
+For new orders after disclosure, included handover is one remote session of up to 60 minutes, requested within 30 days of purchase, covering the archive structure, Python synthetic examples and template configuration points. Also included: up to 30 minutes total of written clarification of the supplied synthetic-sample installation instructions during that period. Seller scheduling delays do not forfeit the session. No ongoing response-time commitment is included. Defect reports and mandatory buyer remedies are not capped by this allowance.
 
-Public materials are for evaluation; no open-source license to the commercial package is granted. Do not put credentials or customer data in public issues.
+Live account integration, new features, production deployment, maintenance, migration, extra training and service subscriptions are excluded. Additional work requires a separate written scope, quote and acceptance criteria. No automatic extra charges. No guaranteed revenue, search ranking or production readiness. Existing purchasers retain their earlier agreed rights.
 
-## Existing source-license terms — review before purchase
-
-One purchaser or organization receives a non-exclusive license to modify the supplied source code and use it internally and in services delivered to its clients. No resale of this package, source redistribution or publication as a standalone template is permitted. Project ownership and trademarks are not transferred. Third-party licenses remain applicable.
-
-Included: the source files, configurable workflow templates, synthetic examples and documentation; one remote handover session of up to 60 minutes arranged within 30 days of purchase; clarification of synthetic-sample installation questions during that period.
-
-Excluded: new features, account integration, production deployment, ongoing maintenance and service subscriptions. The buyer configures accounts, permissions, credentials, spreadsheet schemas and authorized data access. There is no revenue, search-ranking or production-readiness guarantee. Additional commitments require a separate written agreement. These published details do not remove mandatory consumer rights or change an existing purchaser's agreed rights.
+Public materials are for evaluation only; no open-source license to the commercial package is granted. Do not put credentials or customer data in public issues.
 
 ## Compatibility and help
 
