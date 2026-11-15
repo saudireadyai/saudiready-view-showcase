@@ -8,7 +8,11 @@
 
 **Python reporting source + 18 n8n workflow templates. Synthetic demos; integration required.**
 
+**Current price: SAR 690, one-time.** Includes the existing source license and one handover session of up to 60 minutes. Any applicable taxes are shown at checkout.
+
 [Buy on Payhip](https://payhip.com/b/RxM6z) · [Buy on Gumroad](https://saudiready.gumroad.com/l/view-source)
+
+Older included documents may reference SAR 4,900; that price is superseded for new purchases. The price shown at checkout governs your purchase. Existing purchasers' agreed license and support rights remain unchanged.
 
 This public repository contains evaluation materials only. The paid engine and workflow source are not included.
 
