@@ -10,7 +10,7 @@
 
 **USD $399, one-time.** [Buy the developer package on Payhip](https://payhip.com/b/RxM6z). Any applicable taxes are shown at checkout.
 
-Payhip now delivers the corrected 16 November 2026 archive only; the obsolete attachment has been removed. The archive matches the previously verified seller download. The product page and checkout were rechecked on 16 November; a new paid buyer transaction has not been performed. Gumroad remains paused pending removal of its obsolete attachment. Existing purchasers retain their previously agreed license and support rights.
+Also available on [Gumroad](https://saudiready.gumroad.com/l/view-source) at the same USD $399 base price. Gumroad may display a local-currency equivalent. Check the final currency, taxes and total before payment. Both stores offer the corrected 16 November 2026 package. Existing purchasers retain their previously agreed license and support rights.
 
 This public repository contains evaluation materials only. The paid engine and workflow source are not included.
 
